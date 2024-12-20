@@ -1,7 +1,5 @@
 # Best AI Project in Cybersecurity at JACHacks 2024
 
-Devpost: https://devpost.com/software/anti-phishing-academy
-
 Welcome to Anti-Phishing Academy, the winner of the Best AI Project in Cybersecurity at JACHacks 2024!
 
 Anti-Phishing Academy implements a spam email detection logistic regression machine learning model trained with 10,000+ records of data using Python's *scikit-learn* and *joblib* libraries. The model is able to predict if a given email is spam or not with 94% accuracy!
